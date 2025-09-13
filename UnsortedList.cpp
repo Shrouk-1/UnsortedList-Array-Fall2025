@@ -3,7 +3,6 @@
 template<class T>
 UnsortedList<T>::UnsortedList() {
 
-
 }
 
 template<class T>
