@@ -84,6 +84,7 @@ void UnsortedList<T>::ResetIterator() {
 
 }
 
+
 template<class T>
 T UnsortedList<T>::GetNextItem() {
     T currVal = currPos->value;
